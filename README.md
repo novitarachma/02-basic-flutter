@@ -8,13 +8,13 @@ A new Flutter project.
 ![hasil_textwidget](https://user-images.githubusercontent.com/84777299/155838211-fc7a978b-4f7a-424a-987b-8bb7b062030e.jpg)
 
 2) Image Widget
-![hasil_imagewidget](https://user-images.githubusercontent.com/84777299/155259249-c9d9ec10-a3e2-4f94-878a-363d2c274831.jpg)
+![hasil_imagebaru](https://user-images.githubusercontent.com/84777299/155854446-c8d5eb32-d7dc-4947-8627-2fae03fb8900.jpg)
 
 3) Material Design dan iOS Cupertino
 ![hasil_material](https://user-images.githubusercontent.com/84777299/155838202-e8764ad6-62e7-4d2d-8a8c-7bbde19c9a61.jpg)
 
 4) Button
-![hasil_button](https://user-images.githubusercontent.com/84777299/155259234-d8bdcd1a-88fc-4c23-87f0-565272a2648e.jpg)
+![hasil_buttonbaru](https://user-images.githubusercontent.com/84777299/155854444-ccb1f603-6aa3-46e4-a52c-572490cc7e63.jpg)
 
 5) Scaffold
 ![hasil_scaffold](https://user-images.githubusercontent.com/84777299/155838205-50d94c35-20d4-4d31-8bc3-345ac3f44980.jpg)
